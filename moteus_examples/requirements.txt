@@ -1,0 +1,4 @@
+moteus
+matplotlib
+pandas
+numpy
